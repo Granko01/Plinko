@@ -54,7 +54,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2014721684846348860}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -109,10 +109,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 6310022066473962316}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 83, y: 0}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -48.9755, y: 1.5636}
+  m_SizeDelta: {x: 97.9509, y: 103.37}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6203358005466400263
 CanvasRenderer:
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6db35e014b49a2e479dab80eceeef7a6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d8f39736d13c1b4459e03d43760c65ec, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -184,10 +184,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 6310022066473962316}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -95.97, y: 0}
-  m_SizeDelta: {x: 191.94, y: 100.246}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 121.93, y: 1.5637}
+  m_SizeDelta: {x: 243.86, y: 103.3734}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2407242755009623416
 CanvasRenderer:
@@ -218,12 +218,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8c04589098141f4a9102fad9fd0accd, type: 3}
+    m_Font: {fileID: 12800000, guid: b63d1159b16e54c45a036a7212e211d7, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 10
-    m_MaxSize: 40
+    m_MaxSize: 80
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1

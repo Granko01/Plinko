@@ -26,7 +26,7 @@ public class LevelManager : MonoBehaviour
     }
     public void GameScene()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("SeaGameScene");
     }
 
     public void SaveLevel()
@@ -37,7 +37,7 @@ public class LevelManager : MonoBehaviour
 
     public void LevelStage()
     {
-        if (SceneManager.GetActiveScene().name == "Menu")
+        if (SceneManager.GetActiveScene().name == "SeaMainMenu")
         {
             Levels[Level].interactable = true;
             if (Level >= 1)

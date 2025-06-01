@@ -114,54 +114,54 @@ public class CoinsManager : MonoBehaviour
 
     public void BuyPowers(string tag)
     {
-        if (tag == "BuyX2" && Coins >= 1300)
+        if (tag == "BuyX2" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             X2++;
             SaveX2();
             UpdateAllTexts(X2Text, X2);
         }
-        else if (tag == "Timer" && Coins >= 1300)
+        else if (tag == "Timer" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             Timer++;
             SaveTimer();
             UpdateAllTexts(TimerText, Timer);
         }
-        else if (tag == "Shield" && Coins >= 1300)
+        else if (tag == "Shield" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             Shield++;
             SaveShield();
             UpdateAllTexts(ShieldText, Shield);
         }
-        else if (tag == "Fire" && Coins >= 1300)
+        else if (tag == "Fire" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             Fire++;
             SaveFire();
             UpdateAllTexts(FireText, Fire);
         }
-        else if (tag == "Magnet" && Coins >= 1300)
+        else if (tag == "Magnet" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             Magnet++;
             SaveMagnet();
             UpdateAllTexts(MagnetText, Magnet);
         }
-        else if (tag == "Freeze" && Coins >= 1300)
+        else if (tag == "Freeze" && Coins >= 1000)
         {
-            Coins -= 1300;
+            Coins -= 1000;
             SaveCoins();
             UpdateAllTexts(CoinsText, Coins);
             Freeze++;

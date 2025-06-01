@@ -139,14 +139,12 @@ public class Player : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene("GameScene");
-        //levelmanager.MyPanels[levelmanager.Level].gameObject.SetActive(true);
-        //WinUi.gameObject.SetActive(false);
+        SceneManager.LoadScene("SeaGameScene");
     }
 
     public void Menu()
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("SeaMainMenu");
     }
 
     public void MenuM()
