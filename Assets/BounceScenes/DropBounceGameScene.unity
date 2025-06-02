@@ -532,12 +532,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6488837}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1966132044}
+  m_Father: {fileID: 983906165}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -796,12 +796,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 16365788}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1790950745}
+  m_Father: {fileID: 1250445532}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -823,7 +823,7 @@ GameObject:
   - component: {fileID: 34620438}
   - component: {fileID: 34620437}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: Bounce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1442,12 +1442,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 51866285}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1603370947}
+  m_Father: {fileID: 1893326838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2450,7 +2450,7 @@ GameObject:
   - component: {fileID: 67011824}
   - component: {fileID: 67011823}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: BounceMaget
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2807,7 +2807,7 @@ GameObject:
   - component: {fileID: 89112514}
   - component: {fileID: 89112513}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: BounceMagnet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3727,12 +3727,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 112714553}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1790950745}
+  m_Father: {fileID: 1250445532}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5473,12 +5473,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 168737145}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1603370947}
+  m_Father: {fileID: 1893326838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5811,7 +5811,7 @@ GameObject:
   - component: {fileID: 203230703}
   - component: {fileID: 203230702}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: Bounce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5980,7 +5980,7 @@ GameObject:
   - component: {fileID: 204620814}
   - component: {fileID: 204620813}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: BouncePlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9482,7 +9482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292658564}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: BouncePowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9519,7 +9519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 294193495}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: BouncePowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11636,12 +11636,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 385253541}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1790950745}
+  m_Father: {fileID: 1250445532}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -13236,7 +13236,7 @@ GameObject:
   - component: {fileID: 467610739}
   - component: {fileID: 467610738}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: BounceMagnet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13354,7 +13354,7 @@ GameObject:
   m_Component:
   - component: {fileID: 479415162}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: BounceWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13517,12 +13517,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496757319}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1966132044}
+  m_Father: {fileID: 983906165}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -14034,7 +14034,7 @@ GameObject:
   - component: {fileID: 508924741}
   - component: {fileID: 508924740}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: BouncePower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14530,12 +14530,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 521974199}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1603370947}
+  m_Father: {fileID: 1893326838}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -15569,12 +15569,12 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 564983591}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1966132044}
+  m_Father: {fileID: 983906165}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -19126,7 +19126,7 @@ GameObject:
   - component: {fileID: 660369308}
   - component: {fileID: 660369310}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoToWhatever
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23556,7 +23556,7 @@ GameObject:
   - component: {fileID: 858183480}
   - component: {fileID: 858183479}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: BouncePlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23827,7 +23827,7 @@ GameObject:
   - component: {fileID: 864700898}
   - component: {fileID: 864700897}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoToWhatever
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25534,7 +25534,7 @@ GameObject:
   - component: {fileID: 970800428}
   - component: {fileID: 970800427}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: BounceCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25736,6 +25736,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 976114503}
   m_CullTransparentMesh: 1
+--- !u!1 &983906164
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 983906165}
+  m_Layer: 5
+  m_Name: SpawnPoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &983906165
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983906164}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 564983592}
+  - {fileID: 6488838}
+  - {fileID: 496757320}
+  m_Father: {fileID: 1966132044}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &985021837
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26751,7 +26789,7 @@ GameObject:
   - component: {fileID: 1064544318}
   - component: {fileID: 1064544317}
   m_Layer: 5
-  m_Name: Score
+  m_Name: BounceScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27695,7 +27733,7 @@ GameObject:
   - component: {fileID: 1114350388}
   - component: {fileID: 1114350390}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: Bounce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29263,7 +29301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1186214375}
   m_Layer: 0
-  m_Name: '---- Managers ---- '
+  m_Name: '---- Scripts ---- '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29764,7 +29802,7 @@ GameObject:
   - component: {fileID: 1224922536}
   - component: {fileID: 1224922535}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: BounceFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30232,6 +30270,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1242691463}
   m_CullTransparentMesh: 1
+--- !u!1 &1250445531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1250445532}
+  m_Layer: 5
+  m_Name: SpawnPoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1250445532
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250445531}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 112714554}
+  - {fileID: 16365789}
+  - {fileID: 385253542}
+  m_Father: {fileID: 1790950745}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1250449618
 GameObject:
   m_ObjectHideFlags: 0
@@ -30438,7 +30514,7 @@ GameObject:
   - component: {fileID: 1254550765}
   - component: {fileID: 1254550764}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: BouncePower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32757,7 +32833,7 @@ GameObject:
   - component: {fileID: 1344955524}
   - component: {fileID: 1344955525}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: BouncePlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32852,7 +32928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1349873962}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: BouncePowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33120,7 +33196,7 @@ GameObject:
   - component: {fileID: 1391116502}
   - component: {fileID: 1391116501}
   m_Layer: 5
-  m_Name: YouWin
+  m_Name: YouWinTheLevel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34069,7 +34145,7 @@ GameObject:
   - component: {fileID: 1445142773}
   - component: {fileID: 1445142772}
   m_Layer: 5
-  m_Name: Resume
+  m_Name: ResumeBounce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35884,7 +35960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1488923173}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: BounceWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37270,7 +37346,7 @@ GameObject:
   - component: {fileID: 1535060942}
   - component: {fileID: 1535060941}
   m_Layer: 5
-  m_Name: Score
+  m_Name: BounceScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38289,12 +38365,12 @@ GameObject:
   - component: {fileID: 1603370949}
   - component: {fileID: 1603370948}
   m_Layer: 5
-  m_Name: SeaLevel1
+  m_Name: Bounce1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1603370947
 RectTransform:
   m_ObjectHideFlags: 0
@@ -38313,9 +38389,6 @@ RectTransform:
   - {fileID: 1458644197}
   - {fileID: 1114350384}
   - {fileID: 1344955523}
-  - {fileID: 521974200}
-  - {fileID: 51866286}
-  - {fileID: 168737146}
   - {fileID: 508924739}
   - {fileID: 2058471292}
   - {fileID: 660369307}
@@ -38324,6 +38397,7 @@ RectTransform:
   - {fileID: 1445142771}
   - {fileID: 1391116500}
   - {fileID: 1633497682}
+  - {fileID: 1893326838}
   m_Father: {fileID: 970800426}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -38869,7 +38943,7 @@ GameObject:
   - component: {fileID: 1633497684}
   - component: {fileID: 1633497683}
   m_Layer: 5
-  m_Name: YouLose
+  m_Name: YouLoseTheLevel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41784,7 +41858,7 @@ GameObject:
   - component: {fileID: 1790950747}
   - component: {fileID: 1790950746}
   m_Layer: 5
-  m_Name: SeaLevel2
+  m_Name: Bounce2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -41808,9 +41882,6 @@ RectTransform:
   - {fileID: 287458086}
   - {fileID: 34620441}
   - {fileID: 858183478}
-  - {fileID: 112714554}
-  - {fileID: 16365789}
-  - {fileID: 385253542}
   - {fileID: 1254550763}
   - {fileID: 479415162}
   - {fileID: 864700896}
@@ -41819,6 +41890,7 @@ RectTransform:
   - {fileID: 290081696}
   - {fileID: 652516594}
   - {fileID: 1280344536}
+  - {fileID: 1250445532}
   m_Father: {fileID: 970800426}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -42381,7 +42453,7 @@ GameObject:
   - component: {fileID: 1817653768}
   - component: {fileID: 1817653767}
   m_Layer: 5
-  m_Name: Score
+  m_Name: BounceScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43236,7 +43308,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1869909835}
   m_CullTransparentMesh: 1
---- !u!1 &1899958583
+--- !u!1 &1893326837
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -43244,29 +43316,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1899958584}
-  m_Layer: 0
-  m_Name: '---- GameObjects ---- '
+  - component: {fileID: 1893326838}
+  m_Layer: 5
+  m_Name: Spawnpoints
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1899958584
-Transform:
+--- !u!224 &1893326838
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1899958583}
-  serializedVersion: 2
+  m_GameObject: {fileID: 1893326837}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.6788673, y: 1.9837627, z: 1.8658571}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
+  m_Children:
+  - {fileID: 521974200}
+  - {fileID: 51866286}
+  - {fileID: 168737146}
+  m_Father: {fileID: 1603370947}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1908766126
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43709,7 +43788,7 @@ GameObject:
   - component: {fileID: 1919236463}
   - component: {fileID: 1919236462}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoToWhatever
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44689,7 +44768,7 @@ GameObject:
   - component: {fileID: 1961772677}
   - component: {fileID: 1961772676}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: BouncePower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45056,7 +45135,7 @@ GameObject:
   - component: {fileID: 1966132046}
   - component: {fileID: 1966132045}
   m_Layer: 5
-  m_Name: SeaLevel3
+  m_Name: Bounce3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45080,9 +45159,6 @@ RectTransform:
   - {fileID: 392940165}
   - {fileID: 203230706}
   - {fileID: 204620812}
-  - {fileID: 564983592}
-  - {fileID: 6488838}
-  - {fileID: 496757320}
   - {fileID: 1961772675}
   - {fileID: 1488923173}
   - {fileID: 1919236461}
@@ -45091,6 +45167,7 @@ RectTransform:
   - {fileID: 62222865}
   - {fileID: 565322041}
   - {fileID: 1416193085}
+  - {fileID: 983906165}
   m_Father: {fileID: 970800426}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -46338,7 +46415,7 @@ GameObject:
   - component: {fileID: 2009736677}
   - component: {fileID: 2009736676}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: BounceFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47914,7 +47991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2058471292}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: BounceWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -49171,7 +49248,7 @@ GameObject:
   - component: {fileID: 2104902402}
   - component: {fileID: 2104902401}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: BounceFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50505,7 +50582,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1458326194}
-  - {fileID: 1899958584}
   - {fileID: 1186214375}
   - {fileID: 758700386}
   - {fileID: 905861110}

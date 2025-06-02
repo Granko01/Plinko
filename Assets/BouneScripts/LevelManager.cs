@@ -37,7 +37,7 @@ public class LevelManager : MonoBehaviour
 
     public void LevelStage()
     {
-        if (SceneManager.GetActiveScene().name == "SeaMainMenu")
+        if (SceneManager.GetActiveScene().name == "DropBounceMainMenu")
         {
             Levels[Level].interactable = true;
             if (Level >= 1)
