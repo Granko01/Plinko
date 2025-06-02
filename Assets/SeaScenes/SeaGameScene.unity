@@ -530,7 +530,7 @@ GameObject:
   - component: {fileID: 29538453}
   - component: {fileID: 29538452}
   m_Layer: 5
-  m_Name: Resume (2)
+  m_Name: SeaResume (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1463,7 +1463,7 @@ GameObject:
   - component: {fileID: 89112514}
   - component: {fileID: 89112513}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: SeaMagnet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3635,7 +3635,7 @@ GameObject:
   - component: {fileID: 171387298}
   - component: {fileID: 171387297}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: SeaMagnet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4324,7 +4324,7 @@ GameObject:
   - component: {fileID: 192435335}
   - component: {fileID: 192435334}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: SeaFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6536,7 +6536,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292658564}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: SeaPowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9904,6 +9904,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: f8c04589098141f4a9102fad9fd0accd, type: 3}
+    - target: {fileID: 8617625763249311478, guid: 14e6955aeddfd804c99a40862583b633, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6286a82e29f7fde4a9e8a9904e8b28af, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10982,6 +10986,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: f8c04589098141f4a9102fad9fd0accd, type: 3}
+    - target: {fileID: 8617625763249311478, guid: 14e6955aeddfd804c99a40862583b633, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6286a82e29f7fde4a9e8a9904e8b28af, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11160,7 +11168,7 @@ GameObject:
   - component: {fileID: 508924741}
   - component: {fileID: 508924740}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: SeaJumpPower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11592,7 +11600,7 @@ GameObject:
   - component: {fileID: 529931749}
   - component: {fileID: 529931748}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoTo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12433,7 +12441,7 @@ GameObject:
   m_Component:
   - component: {fileID: 571012410}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: SeaPowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14356,7 +14364,7 @@ GameObject:
   - component: {fileID: 642071994}
   - component: {fileID: 642071993}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: SeaPlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14481,7 +14489,7 @@ GameObject:
   - component: {fileID: 645218069}
   - component: {fileID: 645218068}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: SeaBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14651,7 +14659,7 @@ GameObject:
   - component: {fileID: 660369308}
   - component: {fileID: 660369310}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoTo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14780,7 +14788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 688360928}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: SeaWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14915,7 +14923,7 @@ GameObject:
   - component: {fileID: 712774232}
   - component: {fileID: 712774231}
   m_Layer: 5
-  m_Name: YouWin
+  m_Name: SeaYouWin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15144,7 +15152,7 @@ GameObject:
   - component: {fileID: 726016011}
   - component: {fileID: 726016010}
   m_Layer: 5
-  m_Name: Resume
+  m_Name: SeaResume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15765,7 +15773,7 @@ GameObject:
   - component: {fileID: 751497489}
   - component: {fileID: 751497488}
   m_Layer: 5
-  m_Name: YouLose (2)
+  m_Name: SeaYouLose (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15957,7 +15965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 758700386}
   m_Layer: 0
-  m_Name: '---- UI ---- '
+  m_Name: '---- SeaUI ---- '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16320,6 +16328,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: f8c04589098141f4a9102fad9fd0accd, type: 3}
+    - target: {fileID: 8617625763249311478, guid: 14e6955aeddfd804c99a40862583b633, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6286a82e29f7fde4a9e8a9904e8b28af, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18098,7 +18110,7 @@ GameObject:
   - component: {fileID: 867349010}
   - component: {fileID: 867349009}
   m_Layer: 5
-  m_Name: YouWin (1)
+  m_Name: SeaYouWin (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20056,7 +20068,7 @@ GameObject:
   - component: {fileID: 970800428}
   - component: {fileID: 970800427}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: SeaUiCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20980,7 +20992,7 @@ GameObject:
   - component: {fileID: 1037786994}
   - component: {fileID: 1037786993}
   m_Layer: 5
-  m_Name: Magnet
+  m_Name: SeaMagnet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21360,7 +21372,7 @@ GameObject:
   - component: {fileID: 1059373747}
   - component: {fileID: 1059373746}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: SeaPlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22504,7 +22516,7 @@ GameObject:
   - component: {fileID: 1114350388}
   - component: {fileID: 1114350390}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: SeaBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23943,7 +23955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1186214375}
   m_Layer: 0
-  m_Name: '---- Managers ---- '
+  m_Name: '---- SeaScripts ---- '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24317,7 +24329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1210356292}
   m_Layer: 5
-  m_Name: PowerActivated
+  m_Name: SeaPowerActivated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25619,7 +25631,7 @@ GameObject:
   - component: {fileID: 1300915768}
   - component: {fileID: 1300915767}
   m_Layer: 5
-  m_Name: YouLose (1)
+  m_Name: SeaYouLose (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26189,7 +26201,7 @@ GameObject:
   - component: {fileID: 1344955524}
   - component: {fileID: 1344955525}
   m_Layer: 5
-  m_Name: Platformers
+  m_Name: SeaPlatformers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26401,7 +26413,7 @@ GameObject:
   - component: {fileID: 1347235806}
   - component: {fileID: 1347235805}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: SeaFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26868,7 +26880,7 @@ GameObject:
   - component: {fileID: 1374457628}
   - component: {fileID: 1374457627}
   m_Layer: 5
-  m_Name: YouLose
+  m_Name: SeaYouLose
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27050,6 +27062,38 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 1189383910522717232, guid: 623e60931cb63d24f93a5aa0f0f4b391, type: 3}
   m_PrefabInstance: {fileID: 1375709109}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1381576736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1381576737}
+  m_Layer: 0
+  m_Name: SeaHolding
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1381576737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381576736}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2022767412}
+  m_Father: {fileID: 1899958584}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1382241023
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27176,7 +27220,7 @@ GameObject:
   - component: {fileID: 1391116502}
   - component: {fileID: 1391116501}
   m_Layer: 5
-  m_Name: YouWin
+  m_Name: SeaYouWin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27869,7 +27913,7 @@ GameObject:
   - component: {fileID: 1445142773}
   - component: {fileID: 1445142772}
   m_Layer: 5
-  m_Name: Resume
+  m_Name: SeaResume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30889,7 +30933,7 @@ GameObject:
   - component: {fileID: 1633497684}
   - component: {fileID: 1633497683}
   m_Layer: 5
-  m_Name: YouLose
+  m_Name: SeaYouLose
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31229,7 +31273,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1653725072}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: SeaWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31761,7 +31805,7 @@ GameObject:
   - component: {fileID: 1679238368}
   - component: {fileID: 1679238367}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: SeaJump
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33091,7 +33135,7 @@ GameObject:
   - component: {fileID: 1732410058}
   - component: {fileID: 1732410057}
   m_Layer: 5
-  m_Name: Resume (1)
+  m_Name: SeaResume (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34003,7 +34047,7 @@ GameObject:
   - component: {fileID: 1817653768}
   - component: {fileID: 1817653767}
   m_Layer: 5
-  m_Name: Score
+  m_Name: SeaScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35184,7 +35228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1899958584}
   m_Layer: 0
-  m_Name: '---- GameObjects ---- '
+  m_Name: '---- SeaGameObjects ---- '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35202,7 +35246,8 @@ Transform:
   m_LocalPosition: {x: -2.6788673, y: 1.9837627, z: 1.8658571}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1381576737}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1901819833
@@ -35217,7 +35262,7 @@ GameObject:
   - component: {fileID: 1901819836}
   - component: {fileID: 1901819835}
   m_Layer: 5
-  m_Name: YouWin (2)
+  m_Name: SeaYouWin (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35754,7 +35799,7 @@ GameObject:
   - component: {fileID: 1928011269}
   - component: {fileID: 1928011268}
   m_Layer: 5
-  m_Name: Ball
+  m_Name: SeaBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37021,7 +37066,7 @@ GameObject:
   - component: {fileID: 1981376344}
   - component: {fileID: 1981376343}
   m_Layer: 5
-  m_Name: Score
+  m_Name: SeaScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37215,7 +37260,7 @@ GameObject:
   - component: {fileID: 1985876493}
   - component: {fileID: 1985876492}
   m_Layer: 5
-  m_Name: BackgroundG
+  m_Name: GoTo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37689,7 +37734,7 @@ GameObject:
   - component: {fileID: 2009736677}
   - component: {fileID: 2009736676}
   m_Layer: 5
-  m_Name: Freeze
+  m_Name: SeaFreeze
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38024,6 +38069,37 @@ RectTransform:
   m_AnchoredPosition: {x: 168, y: -7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &2022767411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2022767412}
+  m_Layer: 0
+  m_Name: HolderOfVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2022767412
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022767411}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1381576737}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2030752878
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38379,7 +38455,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2058471292}
   m_Layer: 5
-  m_Name: WebObstacles
+  m_Name: SeaWalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39423,7 +39499,7 @@ GameObject:
   - component: {fileID: 2091408787}
   - component: {fileID: 2091408786}
   m_Layer: 5
-  m_Name: Score
+  m_Name: SeaScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39500,7 +39576,7 @@ GameObject:
   - component: {fileID: 2091722346}
   - component: {fileID: 2091722345}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: SeaJump
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
