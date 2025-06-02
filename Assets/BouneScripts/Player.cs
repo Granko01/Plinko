@@ -139,12 +139,12 @@ public class Player : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene("SeaGameScene");
+        SceneManager.LoadScene("DropBounceGameScene");
     }
 
     public void Menu()
     {
-        SceneManager.LoadScene("SeaMainMenu");
+        SceneManager.LoadScene("DropBounceMainMenu");
     }
 
     public void MenuM()
@@ -167,7 +167,7 @@ public class Player : MonoBehaviour
     void UpdateUI()
     {
         if (scoreText != null)
-            scoreText[0].text = "Score: " + score;
+            scoreText[0].text = score.ToString();
 
         if (levelText != null)
             levelText.text = "Level: " + currentLevel;

@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
 {
-    public GameObject[] MyPanels;
+    public GameObject[] BouncePanels;
     public int Level = 0;
     public Button[] Levels;
 
@@ -22,11 +22,11 @@ public class LevelManager : MonoBehaviour
         Level = PlayerPrefs.GetInt(MyLevels, Level);
         SaveLevel();
         LevelStage();
-        LevelShow();
+        BounceLevelShow();
     }
     public void GameScene()
     {
-        SceneManager.LoadScene("SeaGameScene");
+        SceneManager.LoadScene("DropBounceGameScene");
     }
 
     public void SaveLevel()
@@ -47,9 +47,9 @@ public class LevelManager : MonoBehaviour
         }
     }
 
-    public void LevelShow()
+    public void BounceLevelShow()
     {
-        MyPanels[Level].gameObject.SetActive(true);
+        BouncePanels[Level].gameObject.SetActive(true);
     }
 
     public void Panel1()

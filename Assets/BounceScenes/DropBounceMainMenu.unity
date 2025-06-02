@@ -4563,7 +4563,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 102.45085}
+  m_AnchoredPosition: {x: 0, y: 102.45038}
   m_SizeDelta: {x: 0, y: 1258.0916}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &1083583093
@@ -4648,8 +4648,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 141290221}
   m_HandleRect: {fileID: 141290220}
   m_Direction: 2
-  m_Value: -0.000008340582
-  m_Size: 0.9185672
+  m_Value: -0.000003574535
+  m_Size: 0.91806775
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -5101,10 +5101,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c034a7ea96415c47b801488eb0c88bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MyPanels:
-  - {fileID: 1603370946}
-  - {fileID: 1593500332}
-  - {fileID: 126228921}
+  BouncePanels:
+  - {fileID: 1950447192}
+  - {fileID: 987883225}
+  - {fileID: 1857058711}
   Level: 0
   Levels:
   - {fileID: 1950447196}
