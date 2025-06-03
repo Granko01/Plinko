@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: SeawebGL
-  productName: SeaDropBounce
+  companyName: FallGlide
+  productName: FallGlide
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.45098042, g: 0.7803922, b: 0.6117647, a: 1}
